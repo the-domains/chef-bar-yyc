@@ -1,0 +1,28 @@
+name: Chef Bar YYC
+favicon: null
+layout_spectrum: 0.9528585572261363
+typography_spectrum: 0.12944632535800338
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.0708936839364469
+  lightness: 0.22440928453579545
+  saturation: 0.8749205991625786
+  rhythmicContrast: 0.6610278454609215
+purpose: []
